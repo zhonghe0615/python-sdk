@@ -5,4 +5,4 @@
 + demo_transactions_V2.py
 
 # TODO
-  目前仅支持单个合约sol文件解析，将完善支持多个合约sol文件解析；
+  目前仅支持单个合约sol文件解析，将完善支持多个合约sol文件解析.
