@@ -2,8 +2,8 @@
 # 执行前请确认已安装Java 1.8
 + /sol_tools/fboost.jar
 
-# 为与小工具助手集成，加入demo_transactions.py V2版本。
+# 为了与小工具助手集成，加入demo_transactions.py V2版本。
 + demo_transactions_V2.pyi
 
-#TODO:
+# TODO
   目前仅支持单个合约sol文件解析，将完善支持多个合约sol文件解析；
